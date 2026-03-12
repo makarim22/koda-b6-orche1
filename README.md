@@ -2,4 +2,4 @@
 This repo uses Node js, Express js, MongoDB, Mongoose and EJS to build a Blog App that utilises CRUD
 
 ## screenshot page
-(blog.png)
+<img src="/blog.png" alt="Alt text" width="300">
